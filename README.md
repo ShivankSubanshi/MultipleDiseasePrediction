@@ -34,7 +34,7 @@ To run the app locally, follow these steps:
 
 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/your-username/MultipleDiseasePrediction.git
+git clone https://github.com/ShivankSubanshi/MultipleDiseasePrediction.git
 cd MultipleDiseasePrediction
 ```
 
