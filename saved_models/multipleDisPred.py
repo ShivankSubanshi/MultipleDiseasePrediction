@@ -9,9 +9,9 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 
 #loading the saved models
-diabetes_model = pickle.load(open("C:/Users/shiva/OneDrive/Desktop/3rd Yr/ML Pr/saved_models/diabetes_model.sav","rb"))
-heart_model = pickle.load(open("C:/Users/shiva/OneDrive/Desktop/3rd Yr/ML Pr/saved_models/heart_disease_model.sav","rb"))
-parkinson_model = pickle.load(open("C:/Users/shiva/OneDrive/Desktop/3rd Yr/ML Pr/saved_models/parkinson_model.sav","rb"))
+diabetes_model = pickle.load(open("saved_models/diabetes_model.sav", "rb"))
+heart_model = pickle.load(open("saved_models/heart_disease_model.sav","rb"))
+parkinson_model = pickle.load(open("saved_models/parkinson_model.sav","rb"))
 
 #creating the sidebar for options menu
 with st.sidebar:
