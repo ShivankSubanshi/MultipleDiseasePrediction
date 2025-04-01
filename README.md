@@ -66,6 +66,7 @@ streamlit run multipleDisPred.py
 ![Screenshot (117)](https://github.com/user-attachments/assets/3218d92b-460b-48e4-aef8-1987b860e395)
 ![Screenshot (116)](https://github.com/user-attachments/assets/22665d90-7f5e-4283-9b44-5c9d4ed943e7)
 ![Screenshot (115)](https://github.com/user-attachments/assets/98e0c501-4bdd-4c53-9543-4ac6a3108df4)
+
 ---
 
 ## 🚀 Deployment
@@ -82,6 +83,11 @@ To deploy on **Streamlit Cloud**:
 
 ---
 
+## 🔗 Live Demo
+Check out the live app here: [Multiple Disease Prediction App](https://multiplediseaseprediction-dnpmzusvcf5rybjxepg2yu.streamlit.app/)
+
+---
+
 ## 🤝 Contributing
 Feel free to contribute! Fork the repo, make changes, and submit a pull request.
 
@@ -91,9 +97,3 @@ Feel free to contribute! Fork the repo, make changes, and submit a pull request.
 For any issues or feature requests, reach out at **shivanksubanshi0001@gmail.com** or open an issue on GitHub.
 
 **Happy Coding! 🚀**
-
-
-
-
-
-
