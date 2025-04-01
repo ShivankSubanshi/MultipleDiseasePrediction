@@ -1,4 +1,7 @@
 streamlit
 streamlit-option-menu
-pip freeze > requirements.txt
+numpy
+pandas
+scikit-learn
+
 
