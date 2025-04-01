@@ -257,11 +257,13 @@ st.markdown(
         text-align: center;
         font-size: 14px;
         color: gray;
+        left: 50%;
+        transform: translateX(-50%);
     }
     </style>
     <div class="footer">Developed by <b>Shivank Subanshi</b></div>
     """,
     unsafe_allow_html=True
-)    
+)   
 
 
