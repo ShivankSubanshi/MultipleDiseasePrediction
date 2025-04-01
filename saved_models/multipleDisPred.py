@@ -245,6 +245,23 @@ if selected == 'Parkinson Disease':
 
         except ValueError:
             st.error("Please enter valid numeric values in all fields.")
-    
+
+# Add footer
+st.markdown(
+    """
+    <style>
+    .footer {
+        position: fixed;
+        bottom: 10px;
+        width: 100%;
+        text-align: center;
+        font-size: 14px;
+        color: gray;
+    }
+    </style>
+    <div class="footer">Developed by <b>Shivank Subanshi</b></div>
+    """,
+    unsafe_allow_html=True
+)    
 
 
