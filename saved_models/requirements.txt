@@ -1,0 +1,4 @@
+streamlit
+streamlit-option-menu
+pip freeze > requirements.txt
+
